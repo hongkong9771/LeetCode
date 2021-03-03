@@ -9,7 +9,7 @@
 | 15. 3Sum                                | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0015.3Sum) | Medium     | O(n^2​)\|O(n)           | 双指针           | 2021.3.2 | :heart: |
 | 16. 3Sum Closest                        | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0016.3Sum%20Closest) | Medium     | O(n^2)\|O(1)           | 双指针           | 2021.3.2 | :heart: |
 | 18. 4Sum                                | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0018.4Sum) | Medium     | O(n^3)\|O(n)           | 双指针           | 2021.3.3 | :heart: |
-| 26. Remove Duplicates from Sorted Array | [LeetCode   Python3]()                                       | Easy       | O(n)\|O(1)             | 慢指针与快指针   | 2020.3.3 | :heart: |
+| 26. Remove Duplicates from Sorted Array | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0026.Remove%20Duplicates%20from%20Sorted%20Array) | Easy       | O(n)\|O(1)             | 慢指针与快指针   | 2020.3.3 | :heart: |
 | 27. Remove Element                      |                                                              |            |                        |                  |          |         |
 | 39. Combination Sum                     |                                                              |            |                        |                  |          |         |
 | 40. Combination Sum II                  |                                                              |            |                        |                  |          |         |
