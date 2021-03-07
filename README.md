@@ -24,9 +24,9 @@
 
 2. LinkList
 
-| Title                                                        | Solution               | Difficulty | Time\|Space Complexity | Tip  | Time     | Star    |
-| ------------------------------------------------------------ | ---------------------- | ---------- | ---------------------- | ---- | -------- | ------- |
-| 206. [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [LeetCode   Python3]() | Easy       | O(n)\|O(1)             |      | 2021.3.4 | :heart: |
-|                                                              |                        |            |                        |      |          |         |
-|                                                              |                        |            |                        |      |          |         |
+| Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time     | Star    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | -------- | ------- |
+| 206. [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0206.Contains%20Duplicate) | Easy       | O(n)\|O(1)             |      | 2021.3.7 | :heart: |
+|                                                              |                                                              |            |                        |      |          |         |
+|                                                              |                                                              |            |                        |      |          |         |
 
