@@ -20,3 +20,13 @@
 | 53. Maximum Subarray                    |                                                              |            |                        |                  |          |                |
 | 54. Spiral Matrix                       |                                                              |            |                        |                  |          |                |
 
+
+
+2. LinkList
+
+| Title                                                        | Solution               | Difficulty | Time\|Space Complexity | Tip  | Time     | Star    |
+| ------------------------------------------------------------ | ---------------------- | ---------- | ---------------------- | ---- | -------- | ------- |
+| 206. [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [LeetCode   Python3]() | Easy       | O(n)\|O(1)             |      | 2021.3.4 | :heart: |
+|                                                              |                        |            |                        |      |          |         |
+|                                                              |                        |            |                        |      |          |         |
+
