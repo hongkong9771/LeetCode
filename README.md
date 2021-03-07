@@ -26,7 +26,7 @@
 
 | Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time     | Star    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | -------- | ------- |
-| 206. [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0206.Contains%20Duplicate) | Easy       | O(n)\|O(1)             |      | 2021.3.7 | :heart: |
+| 206. [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0206.Contains%20Duplicate) | Easy       | O(n)\|O(1)             |      | 2021.3.7 | :heart: |
 |                                                              |                                                              |            |                        |      |          |         |
 |                                                              |                                                              |            |                        |      |          |         |
 
