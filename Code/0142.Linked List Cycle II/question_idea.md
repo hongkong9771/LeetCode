@@ -1,0 +1,79 @@
+#### [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+
+给定一个链表，返回链表开始入环的第一个节点。 如果链表无环，则返回 `null`。
+
+为了表示给定链表中的环，我们使用整数`pos`来表示链表尾连接到链表中的位置（索引从 0 开始）。 如果`pos`是 -1，则在该链表中没有环。注意，`pos`仅仅是用于标识环的情况，并不会作为参数传递到函数中。
+
+说明：不允许修改给定的链表。
+
+进阶：
+
+- 你是否可以使用 O(1) 空间解决此题？
+
+###### 示例1：
+
+![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist.png)
+
+> **输入：**head = [3,2,0,-4], pos = 1
+> **输出：**返回索引为 1 的链表节点
+> **解释：**链表中有一个环，其尾部连接到第二个节点。
+
+
+
+###### 示例2：
+
+![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test2.png)
+
+> **输入：**head = [1,2], pos = 0
+> **输出：**返回索引为 0 的链表节点
+> **解释：**链表中有一个环，其尾部连接到第一个节点。
+
+
+
+###### 示例3：
+
+![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test3.png)
+
+> 输入：head = [1], pos = -1
+> 输出：返回 null
+> 解释：链表中没有环。
+
+
+
+
+
+##### 思路：
+
+![](https://gitee.com/hongkong9771/csdn-blog-map-bed/raw/master/3.LeetCode%E4%B8%93%E9%A2%98/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/image-20210310191451535.png)
+
+​		此类链表问题可以用快指针和慢指针的方法来解决。首先，我们定义两个指针，快指针为`fast`，慢指针为`slow`，两个指针初始位置指向`head`，fast每次走2步，slow每次走1步。接着，我们将此问题分成两种情况来考虑：
+
+1. 链表无环，`fast`指针与`slow`指针不可能相遇，返回`null`；
+
+2. 链表有环，`fast`指针与`slow`指针一定会相遇，下面解释为什么会相遇：
+
+   ​		当链表有环时，`fast`指针会先于`slow`指针进入环内，当slow指针进入环内之后，因为`fast`指针每次走2步，`slow`指针每次走1步，所以相对于`slow`指针而言，`fast`指针以每次1步的速度追赶`slow`指针，则必然会追赶到`slow`指针，并与`slow`指针相遇。
+
+   ​		下面分析指针相遇情况：设从头节点走到链表环的入口处需要x步，链表环内走一圈需要y步，如上图所示，x和y分别为$x=3$和$y=5$。当slow指针与fast指针相遇时，slow指针走的步数为S步，fast指针走的步数为F步。其中`x`、`y`、`S`和`F`均为未知数。
+
+   ​		当fast指针与slow指针相遇时，二者走的步数之间的差距并定是环内节点数的整数倍，即：
+   $$
+   F-S=n·y\tag{1}
+   $$
+   ​		其中$n$为正整数。
+
+   ​		而当fast指针与slow指针第一次相遇时，fast指针所走的步数是slow指针的2倍（fast每次走2步，slow每次走1步），即:
+   $$
+   F=2·S\tag{2}
+   $$
+   ​		结合(1)、(2)式，可知：
+   $$
+   S=n·y\tag{3}
+   $$
+   ​		又因为当slow指针走到环的入口处时，共走了$x+k·y$步，其中$k$为整数。则当fast指针与slow指针第一次相遇之后，slow指针再走到环的入口处需要再走$x$步，因此，可以利用这个条件判断环入口节点的位置。
+
+   ##### 算法步骤：
+
+   - 首先判断链表是否有环，若无环，则返回null；若有环，则找到fast指针与slow指针相遇节点的位置；
+   - 之后将fast指针指向head，并以每次1步前进，当slow指针到达环入口处时，fast指针刚好也走了$x$步到达环的入口处并于slow指针相遇；
+   - 返回此时fast指针，即为入口处的节点。
