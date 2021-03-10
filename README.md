@@ -13,7 +13,7 @@
 | 18. 4Sum                                | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0018.4Sum) | Medium     | O(n^3)\|O(n)           | 双指针           | 2021.3.3 | :heart:        |
 | 26. Remove Duplicates from Sorted Array | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0026.Remove%20Duplicates%20from%20Sorted%20Array) | Easy       | O(n)\|O(1)             | 慢指针与快指针   | 2020.3.3 | :heart:        |
 | 27. Remove Element                      | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0027.Remove%20Element) | Easy       | O(n)\|O(1)             | 慢指针与快指针   | 2021.3.4 | :heart::heart: |
-| 35. Search Insert Position              | [LeetCode   Python3]()                                       | Easy       | O(log(n))\|O(1)        | 二分查找法       | 2021.3.5 | :heart::heart: |
+| 35. Search Insert Position              | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0035.Search%20Insert%20Position) | Easy       | O(log(n))\|O(1)        | 二分查找法       | 2021.3.5 | :heart::heart: |
 | 39. Combination Sum                     |                                                              |            |                        |                  |          |                |
 | 40. Combination Sum II                  |                                                              |            |                        |                  |          |                |
 | 41. First Missing Positive              |                                                              |            |                        |                  |          |                |
@@ -26,7 +26,7 @@
 
 | Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                     | Time      | Star    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ----------------------- | --------- | ------- |
-| 141. [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [LeetCode   Python3]()                                       | Easy       | O(n)\|O(1)             | 慢指针与快指针          | 2021.3.10 |         |
+| 141. [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0141.Linked%20List%20Cycle) | Easy       | O(n)\|O(1)             | 慢指针与快指针          | 2021.3.10 |         |
 | 142. [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0142.Linked%20List%20Cycle%20II) | Medium     | O(n)\|O(1)             | 慢指针与快指针+数学推算 | 2021.3.10 | :heart: |
 | 206. [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0206.Reverse%20Linked%20List) | Easy       | O(n)\|O(1)             |                         | 2021.3.7  | :heart: |
 |                                                              |                                                              |            |                        |                         |           |         |
