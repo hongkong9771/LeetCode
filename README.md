@@ -27,7 +27,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ----------------------- | --------- | --------------------- |
 | 206. [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0206.Reverse%20Linked%20List) | Easy       | O(n)\|O(1)             |                         | 2021.3.7  | :heart:               |
 | 141. [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0141.Linked%20List%20Cycle) | Easy       | O(n)\|O(1)             | 慢指针与快指针          | 2021.3.10 |                       |
-| 142. [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0142.Linked%20List%20Cycle%20II) | Medium     | O(n)\|O(1)             | 慢指针与快指针+数学推算 | 2021.3.10 | :heart:               |
+| 142. [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0142.Linked%20List%20Cycle%20II) | Medium     | O(n)\|O(1)             | 慢指针与快指针+数学推算 | 2021.3.10 | :heart::heart:        |
 | 203. [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0203.Remove%20Linked%20List%20Elements) | Easy       | O(n)\|O(1)             |                         | 2021.3.12 | :heart:               |
 | 707. [Design Linked List](https://leetcode-cn.com/problems/design-linked-list/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0707.Design%20Linked%20List) | Medium     |                        | 创建链表并定义方法      | 2021.3.12 | :heart::heart::heart: |
 |                                                              |                                                              |            |                        |                         |           |                       |
@@ -36,7 +36,7 @@
 
 
 
-##### Dynamic Progamming
+##### 6. Dynamic Progamming
 
 | Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip     | Time      | Star           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ------- | --------- | -------------- |
