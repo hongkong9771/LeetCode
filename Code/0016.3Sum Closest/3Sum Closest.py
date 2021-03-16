@@ -11,7 +11,7 @@ class Solution:
             left, right = k+1, n-1
             while left < right:
                 s = nums[k] + nums[left] + nums[right]
-                if s == target:
+                if s == target:     # 当s与target值相等时，直接返回s
                     return s
                 if abs(s - target) < abs(ans - target):  # 每移动一次比较一次值
                     ans = s
