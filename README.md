@@ -85,7 +85,7 @@
 | 746. [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0746.Min%20Cost%20Climbing%20Stairs) | Easy       | O(n)\|O(1)             | DP      | 2021.3.16 | :heart:        |
 | 62. [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0062.Unique%20Paths) | Medium     | O(mn)\|O(n)            | DP      | 2021.3.16 | :heart::heart: |
 | 63. [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0063.Unique%20Paths%20II) | Medium     | O(mn)\|O(mn)           | DP      | 2021.3.17 | :heart:        |
-| 343.[Integer Break](https://leetcode-cn.com/problems/integer-break/) | [LeetCode   Python3]()                                       | Medium     | O(n^2)\|O(n)           | DP      | 2021.3.17 | :heart::heart: |
+| 343.[Integer Break](https://leetcode-cn.com/problems/integer-break/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0343.Integer%20Break) | Medium     | O(n^2)\|O(n)           | DP      | 2021.3.17 | :heart::heart: |
 |                                                              |                                                              |            |                        |         |           |                |
 |                                                              |                                                              |            |                        |         |           |                |
 
