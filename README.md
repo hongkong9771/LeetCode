@@ -74,7 +74,7 @@
 
 
 
-##### 6.栈、队列
+##### 6. 栈、队列
 
 | Title | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
 | ----- | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
@@ -86,15 +86,15 @@
 
 ##### 7. 动态规划
 
-| Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip     | Time      | Star           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ------- | --------- | -------------- |
-| 509. [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0509.Fibonacci%20Number) | Easy       | O(n)\|O(1)             | 递归/DP | 2021.3.16 | :heart:        |
-| 70. [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0070.Climbing%20Stairs) | Easy       | O(n)\|O(1)             | DP      | 2021.3.16 | :heart:        |
-| 746. [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0746.Min%20Cost%20Climbing%20Stairs) | Easy       | O(n)\|O(1)             | DP      | 2021.3.16 | :heart:        |
-| 62. [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0062.Unique%20Paths) | Medium     | O(mn)\|O(n)            | DP      | 2021.3.16 | :heart::heart: |
-| 63. [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0063.Unique%20Paths%20II) | Medium     | O(mn)\|O(mn)           | DP      | 2021.3.17 | :heart:        |
-| 343.[Integer Break](https://leetcode-cn.com/problems/integer-break/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0343.Integer%20Break) | Medium     | O(n^2)\|O(n)           | DP      | 2021.3.17 | :heart::heart: |
-| 279.[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0279.Perfect%20Squares) | Medium     | O(n*n^0.5)\|O(n)       | DP      | 2021.3.24 | :heart:        |
-|                                                              |                                                              |            |                        |         |           |                |
-|                                                              |                                                              |            |                        |         |           |                |
+| Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip       | Time      | Star           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | --------- | --------- | -------------- |
+| 509. [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0509.Fibonacci%20Number) | Easy       | O(n)\|O(1)             | 递归/DP   | 2021.3.16 | :heart:        |
+| 70. [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0070.Climbing%20Stairs) | Easy       | O(n)\|O(1)             | DP        | 2021.3.16 | :heart:        |
+| 746. [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0746.Min%20Cost%20Climbing%20Stairs) | Easy       | O(n)\|O(1)             | DP        | 2021.3.16 | :heart:        |
+| 62. [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0062.Unique%20Paths) | Medium     | O(mn)\|O(n)            | DP        | 2021.3.16 | :heart::heart: |
+| 63. [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0063.Unique%20Paths%20II) | Medium     | O(mn)\|O(mn)           | DP        | 2021.3.17 | :heart:        |
+| 343.[Integer Break](https://leetcode-cn.com/problems/integer-break/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0343.Integer%20Break) | Medium     | O(n^2)\|O(n)           | DP        | 2021.3.17 | :heart::heart: |
+| 279.[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0279.Perfect%20Squares) | Medium     | O(n*n^0.5)\|O(n)       | DP        | 2021.3.24 | :heart:        |
+| 416.[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [LeetCode   Python3]()                                       | Medium     | O(n*S)\|O(S)           | DP/01背包 | 2021.3.25 | :heart::heart: |
+|                                                              |                                                              |            |                        |           |           |                |
 
