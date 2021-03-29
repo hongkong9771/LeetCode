@@ -52,13 +52,14 @@
 
 ##### 4. 字符串
 
-| Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                         | Time      | Star |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------- | --------------------------- | --------- | ---- |
-| 344. [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0344.Reverse%20String) | Easy       | O(n/2)\|O(1)           | 对应位置交换                | 2021.3.29 |      |
-| 541. [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0541.Reverse%20String%20II) | Easy       | O(n/2)O(n)             | 字符串转列表,再转字符串输出 | 2021.3.29 |      |
-|                                                              |                                                              |            |                        |                             |           |      |
-|                                                              |                                                              |            |                        |                             |           |      |
-|                                                              |                                                              |            |                        |                             |           |      |
+| Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                                        | Time      | Star           |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------- | ------------------------------------------ | --------- | -------------- |
+| 344. [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0344.Reverse%20String) | Easy       | O(n/2)\|O(1)           | 对应位置交换                               | 2021.3.29 |                |
+| 541. [Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0541.Reverse%20String%20II) | Easy       | O(n/2)O(n)             | 字符串转列表,再转字符串输出                | 2021.3.29 |                |
+| [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/%E5%89%91%E6%8C%87%20Offer%2005.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC) | Easy       | O(n)\|O(n)             |                                            | 2021.3.29 |                |
+| 151. [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0151.Reverse%20Words%20in%20a%20String) | Medium     | O(n)\|O(n)             | 1.去掉空格；2.反转；3.加入空格，返回字符串 | 2021.3.29 | :heart::heart: |
+|                                                              |                                                              |            |                        |                                            |           |                |
+|                                                              |                                                              |            |                        |                                            |           |                |
 
 
 
