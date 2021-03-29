@@ -52,13 +52,13 @@
 
 ##### 4. 字符串
 
-| Title | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
-| ----- | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
+| Title                                                        | Solution               | Difficulty | Time\|Space Complexity | Tip          | Time      | Star |
+| :----------------------------------------------------------- | ---------------------- | ---------- | ---------------------- | ------------ | --------- | ---- |
+| 344. [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [LeetCode   Python3]() | Easy       | O(n/2\|1)              | 对应位置交换 | 2021.3.29 |      |
+|                                                              |                        |            |                        |              |           |      |
+|                                                              |                        |            |                        |              |           |      |
+|                                                              |                        |            |                        |              |           |      |
+|                                                              |                        |            |                        |              |           |      |
 
 
 
