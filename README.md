@@ -77,11 +77,11 @@
 
 ##### 6. 栈、队列
 
-| Title | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
-| ----- | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
-|       |          |            |                        |      |      |      |
+| Title                                                        | Solution               | Difficulty | Time\|Space Complexity | Tip              | Time     | Star                  |
+| ------------------------------------------------------------ | ---------------------- | ---------- | ---------------------- | ---------------- | -------- | --------------------- |
+| 232. [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [LeetCode   Python3]() | Easy       |                        | 用两个栈实现队列 | 2021.4.1 | :heart::heart::heart: |
+|                                                              |                        |            |                        |                  |          |                       |
+|                                                              |                        |            |                        |                  |          |                       |
 
 
 
