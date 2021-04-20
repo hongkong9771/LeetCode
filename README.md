@@ -91,7 +91,17 @@
 
 
 
-##### 7. 动态规划
+##### 7. 二叉树
+
+| Title                                                        | Solution               | Difficulty | Time\|Space Complexity | Tip       | Time      | Star           |
+| ------------------------------------------------------------ | ---------------------- | ---------- | ---------------------- | --------- | --------- | -------------- |
+| 144. [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [LeetCode   Python3]() | Medium     | O(n)\|O(n)             | 递归/迭代 | 2021.4.20 | :heart::heart: |
+| 145. [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [LeetCode   Python3]() | Medium     | O(n)\|O(n)             | 递归/迭代 | 2021.4.20 | :heart::heart: |
+|                                                              | [LeetCode   Python3](  |            |                        |           |           |                |
+
+
+
+##### 8. 动态规划
 
 | Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip       | Time      | Star           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | --------- | --------- | -------------- |
