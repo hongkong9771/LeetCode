@@ -102,6 +102,7 @@
 | 107. [Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0107.Binary%20Tree%20Level%20Order%20Traversal%20II) | Medium     | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
 | 199. [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0199.Binary%20Tree%20Right%20Side%20View) | Medium     | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
 | 637. [Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [LeetCode   Python3](                                        | Easy       | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
+| 429. [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | [LeetCode   Python3](                                        | Medium     | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
 |                                                              | [LeetCode   Python3](                                        |            |                        |                                    |           |                |
 
 
