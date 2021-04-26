@@ -104,7 +104,7 @@
 | 637. [Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0637.Average%20of%20Levels%20in%20Binary%20Tree) | Easy       | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
 | 429. [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0429.N-ary%20Tree%20Level%20Order%20Traversal) | Medium     | O(n)\|O(n)             |                                    | 2021.4.26 | :heart::heart: |
 | 226. [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0226.Invert%20Binary%20Tree) | Easy       | O(n)\|O(n)             | <font color=red>递归</font>/栈迭代 | 2021.4.26 | :heart::heart: |
-|                                                              | [LeetCode   Python3](                                        |            |                        |                                    |           |                |
+| 101. [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [LeetCode   Python3](                                        | Easy       | O(n)\|O(n)             | 队列迭代                           | 2021.4.26 | :heart::heart: |
 |                                                              | [LeetCode   Python3](                                        |            |                        |                                    |           |                |
 
 
