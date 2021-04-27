@@ -7,13 +7,14 @@
 class Solution:
     def isSymmetric(self, root: TreeNode) -> bool:
         # 采用队列迭代的方法解决，两两对应取节点，每次判断一组（两个）节点的值是否相同
+        # 其实选取栈也是可以的，只是充当一个容器，在提取的过程中保持每两个一起提取就行了
         queue = []
         if not root:
             return True
         queue.append(root.left)
         queue.append(root.right)
         while len(queue) > 0:
-            left_node = queue.pop(0)
+            left_node = queue.pop(0)        # 每次取两个树节点进行判断，他们在树结点的位置是对称的
             right_node = queue.pop(0)
             if not left_node and not right_node:    # 左、右节点均为空，此时说明是对称的
                 continue
