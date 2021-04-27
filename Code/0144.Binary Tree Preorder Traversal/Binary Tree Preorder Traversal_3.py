@@ -16,14 +16,11 @@ class Solution:
         stack = []
         if root:
             stack.append(root)
-        cur = root
-        while cur and len(stack) > 0:
+        while len(stack) > 0:
             node = stack.pop()
             res.append(node.val)
             if node.right is not None:
                 stack.append(node.right)
-                cur = node.right
             if node.left is not None:
                 stack.append(node.left)
-                cur = node.left
         return res

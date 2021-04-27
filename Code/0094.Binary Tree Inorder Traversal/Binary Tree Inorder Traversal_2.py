@@ -10,9 +10,9 @@ class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
         # 借助于栈，使用迭代法解决
         """
-        首先将根节点添加入栈中，然后将根节点的左子节点（如果有的话）添加入栈中，直至叶子节点，
-        之后，执行出栈操作，接着继续执行出栈操作（即父节点出栈），然后判断父节点的右子节点是否存在，
-        若存在，则继续按照上面的步骤将节点进行入栈操作，如此循环。
+        首先将根节点添加入栈中，然后将根节点的左子节点（如果有的话）添加入栈中，直至最后一个左子节点，
+        之后，执行出栈操作，并判断该节点的右子节点是否存在，若存在，则继续按照上面的步骤将节点进行入栈操作，
+        若不存在，则继续执行出栈操作，如此循环。
         """
         res = []
         stack = []
@@ -23,9 +23,6 @@ class Solution:
                 cur = cur.left
             node = stack.pop()
             res.append(node.val)
-            # if len(stack) > 0:
-            #     node = stack.pop()
-            #     res.append(node.val)
             if node.right is not None:
                 cur = node.right
             else:
