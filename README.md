@@ -6,7 +6,7 @@
 
 | Title                                                        | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                | Time      | Star           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ------------------ | --------- | -------------- |
-| 1. [Two Sum](https://leetcode-cn.com/problems/two-sum/)      | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0001.Two%20Sum) | Easy       | O(n)\|O(n)             |                    | 2021.3.2  |                |
+| 1. [两数之和](https://leetcode-cn.com/problems/two-sum/)     | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0001.Two%20Sum) | Easy       | O(n)\|O(n)             |                    | 2021.3.2  |                |
 | 11. [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0011.Container%20With%20Most%20Water) | Medium     | O(n)\|O(1)             | 推算面积大小变化   | 2021.3.2  | :heart:        |
 | 15. [3Sum](https://leetcode-cn.com/problems/3sum/)           | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0015.3Sum) | Medium     | O(n^2​)\|O(n)           | 双指针             | 2021.3.2  | :heart:        |
 | 16. [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0016.3Sum%20Closest) | Medium     | O(n^2)\|O(1)           | 双指针             | 2021.3.2  | :heart:        |
