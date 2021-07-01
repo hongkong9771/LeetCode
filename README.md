@@ -145,9 +145,9 @@
 
 ##### 9. 数据库
 
-| Title | 标题         | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
-| ----- | ------------ | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
-| 175.  | 第二高的薪水 |          |            |                        |      |      |      |
-|       |              |          |            |                        |      |      |      |
-|       |              |          |            |                        |      |      |      |
+| Title                                                        | 标题         | Solution | Difficulty | Time\|Space Complexity | Tip              | Time     | Star           |
+| ------------------------------------------------------------ | ------------ | -------- | ---------- | ---------------------- | ---------------- | -------- | -------------- |
+| 175. [Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/) | 组合两个表   |          | Easy       |                        | 外连接（左连接） | 2021.7.1 | :heart::heart: |
+| 176. [Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/) | 第二高的薪水 |          | Easy       |                        | 去重+判定不存在  | 2021.7.1 | :heart::heart: |
+|                                                              |              |          |            |                        |                  |          |                |
 
