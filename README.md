@@ -178,9 +178,9 @@
 
 
 
-| Title                                                        | 标题     | Solution             | Difficulty | Time\|Space Complexity | Tip  | Time     | star                         |
-| ------------------------------------------------------------ | -------- | -------------------- | ---------- | ---------------------- | ---- | -------- | ---------------------------- |
-| 192. [Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | 统计词频 | [LeetCode   shell]() | Medium     |                        |      | 2021.7.6 | :heart::heart::heart::heart: |
-|                                                              |          |                      |            |                        |      |          |                              |
-|                                                              |          |                      |            |                        |      |          |                              |
+| Title                                                        | 标题     | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time     | star                         |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | -------- | ---------------------------- |
+| 192. [Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | 统计词频 | [LeetCode   shell](https://github.com/hongkong9771/LeetCode/tree/main/Code/0192.Word%20Frequency) | Medium     |                        |      | 2021.7.6 | :heart::heart::heart::heart: |
+| 195. [Tenth Line](https://leetcode-cn.com/problems/tenth-line/) | 第十行   | [LeetCode   shell]()                                         | Easy       |                        |      | 2021.7.6 | :heart::heart:               |
+|                                                              |          |                                                              |            |                        |      |          |                              |
 
