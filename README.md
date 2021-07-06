@@ -170,3 +170,17 @@
 |                                                              |                          |                                                              |            |                        |                            |          |                              |
 |                                                              |                          |                                                              |            |                        |                            |          |                              |
 
+
+
+
+
+##### 10. shell
+
+
+
+| Title                                                        | 标题     | Solution             | Difficulty | Time\|Space Complexity | Tip  | Time     | star                         |
+| ------------------------------------------------------------ | -------- | -------------------- | ---------- | ---------------------- | ---- | -------- | ---------------------------- |
+| 192. [Word Frequency](https://leetcode-cn.com/problems/word-frequency/) | 统计词频 | [LeetCode   shell]() | Medium     |                        |      | 2021.7.6 | :heart::heart::heart::heart: |
+|                                                              |          |                      |            |                        |      |          |                              |
+|                                                              |          |                      |            |                        |      |          |                              |
+
