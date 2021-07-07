@@ -40,13 +40,13 @@
 
 ##### 3. 哈希表
 
-| Title                                                        | 标题             | Solution               | Difficulty | Time\|Space Complexity | Tip                      | Time     | Star           |
-| ------------------------------------------------------------ | ---------------- | ---------------------- | ---------- | ---------------------- | ------------------------ | -------- | -------------- |
-| 242.[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | 有效的字母异位词 | [LeetCode   Python3]() | Easy       | O(n)/O(n)              | 字典存储字符对应出现次数 | 2021.7.7 | :heart::heart: |
-|                                                              |                  |                        |            |                        |                          |          |                |
-|                                                              |                  |                        |            |                        |                          |          |                |
-|                                                              |                  |                        |            |                        |                          |          |                |
-|                                                              |                  |                        |            |                        |                          |          |                |
+| Title                                                        | 标题             | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                      | Time     | Star           |
+| ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ | ---------- | ---------------------- | ------------------------ | -------- | -------------- |
+| 242.[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | 有效的字母异位词 | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0242.Valid%20Anagram) | Easy       | O(n)/O(n)              | 字典存储字符对应出现次数 | 2021.7.7 | :heart::heart: |
+|                                                              |                  |                                                              |            |                        |                          |          |                |
+|                                                              |                  |                                                              |            |                        |                          |          |                |
+|                                                              |                  |                                                              |            |                        |                          |          |                |
+|                                                              |                  |                                                              |            |                        |                          |          |                |
 
 
 
