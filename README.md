@@ -156,6 +156,8 @@
 | 494. [Target Sum](https://leetcode-cn.com/problems/target-sum/) | 目标和                | [LeetCode   Python3]()                                       | Medium     | O(n*n)\|               | DP/01背包 | 2021.7.16 | :heart::heart::heart::heart::heart::heart: |
 |                                                              |                       |                                                              |            |                        |           |           |                                            |
 |                                                              |                       |                                                              |            |                        |           |           |                                            |
+|                                                              |                       |                                                              |            |                        |           |           |                                            |
+|                                                              |                       |                                                              |            |                        |           |           |                                            |
 
 
 
