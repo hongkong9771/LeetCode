@@ -7,7 +7,7 @@ class Solution:
         2）当天购买了股票，所以dp[i][0] = -prices[i]
         dp[i][1]可以分成两种情况：
         1）当天并未卖出股票，则可能是由前一天卖出的股票，所以dp[i][1] = dp[i-1][1]
-        2）当天卖出了股票，所以dp[i][0] = prices[i] + dp[i-1][0]
+        2）当天卖出了股票，所以dp[i][1] = prices[i] + dp[i-1][0]
         """
         l = len(prices)
         dp = [[0] * 2 for _ in range(l)]
