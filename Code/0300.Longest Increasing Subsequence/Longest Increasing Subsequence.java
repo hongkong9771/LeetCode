@@ -1,7 +1,7 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         /*
-        dp[i]表示数组长度为i的数组中最长严格递增子序列的长度，则每一个dp[i]都可以由dp[j]（i>j）计算得到。
+        dp[i]表示包含第i个元素的最长严格递增子序列的长度，则每一个dp[i]都可以由dp[j]（i>j）计算得到。
         其中j需要从0遍历至i-1，以从中找到最大的递增子序列长度
         */
         int l = nums.length;
