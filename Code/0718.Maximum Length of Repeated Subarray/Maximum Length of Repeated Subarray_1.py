@@ -1,7 +1,7 @@
 class Solution:
     def findLength(self, nums1: List[int], nums2: List[int]) -> int:
         """
-        dp[i][j]表示分别以A[i]、B[j]为结尾并包含A[i]、B[j]的公共子数组的长度，
+        dp[i][j]表示分别以A[i-1]、B[j-1]为结尾并包含A[i-1]、B[j-1]的公共子数组的长度，
         两层for循环分别遍历整数数组A和B，当A中的一个值与B中的值相等时，此时的dp[i][j]的值为：
         dp[i][j] = dp[i-1][j-1]+1
         """
