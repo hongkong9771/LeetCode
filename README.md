@@ -109,7 +109,6 @@
 
 ##### 7. 二叉树
 
-<<<<<<< HEAD
 | Title                                                        | 标题              | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                                     | Time      | Star           |
 | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ | ---------- | ---------------------- | --------------------------------------- | --------- | -------------- |
 | 144. [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 二叉树的前序遍历  | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0144.Binary%20Tree%20Preorder%20Traversal) | Easy       | O(n)\|O(n)             | <font color=red>递归</font>/栈迭代      | 2021.4.20 | :heart::heart: |
