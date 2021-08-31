@@ -179,8 +179,11 @@
 | 72. [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | 编辑距离                   | [Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0072.Edit%20Distance) | Hard       | O(mn)\|O(mn)           | DP                    | 2021.8.29            | :heart::heart::heart::heart:               |
 | 647. [Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/) | 回文子串                   | [Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0647.Palindromic%20Substrings) | Medium     | O(n^2)\|O(n^2)         | DP                    | 2021.8.30            | :heart::heart::heart:                      |
 | 516. [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | 最长回文子序列             | [Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0516.Longest%20Palindromic%20Subsequence) | Medium     | O(n^2)\|O(n^2)         | DP                    | 2021.8.30            | :heart::heart::heart:                      |
-| 221. [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | 最大正方形                 | [Python](                                                    | Medium     | O(mn)\|O(mn)           | DP                    | 2021.8.31            | :heart::heart::heart::heart:               |
-| 5. [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 最长回文子串               | [Python](                                                    | Medium     | O(n^2)\|O(n^2)         | DP                    | 2021.8.31            | :heart::heart::heart:                      |
+| 221. [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | 最大正方形                 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0221.Maximal%20Square) | Medium     | O(mn)\|O(mn)           | DP                    | 2021.8.31            | :heart::heart::heart::heart:               |
+| 5. [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 最长回文子串               | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0005.Longest%20Palindromic%20Substring) | Medium     | O(n^2)\|O(n^2)         | DP                    | 2021.8.31            | :heart::heart::heart:                      |
+|                                                              |                            |                                                              |            |                        |                       |                      |                                            |
+|                                                              |                            |                                                              |            |                        |                       |                      |                                            |
+|                                                              |                            |                                                              |            |                        |                       |                      |                                            |
 |                                                              |                            |                                                              |            |                        |                       |                      |                                            |
 |                                                              |                            |                                                              |            |                        |                       |                      |                                            |
 
@@ -188,11 +191,11 @@
 
 ##### 9. 回溯算法
 
-| Title                                                        | 标题   | Solution  | Difficulty | Time\|Space Complexity | Tip  | Time      | Star    |
-| ------------------------------------------------------------ | ------ | --------- | ---------- | ---------------------- | ---- | --------- | ------- |
-| 9. [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | 回文数 | [Python]( | Easy       | O(n)\|O(n)             |      | 2021.8.31 | :heart: |
-|                                                              |        |           |            |                        |      |           |         |
-|                                                              |        |           |            |                        |      |           |         |
+| Title | 标题 | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
+| ----- | ---- | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
+|       |      |          |            |                        |      |      |      |
+|       |      |          |            |                        |      |      |      |
+|       |      |          |            |                        |      |      |      |
 
 
 
@@ -204,7 +207,11 @@
 
 ##### 11. 回文专题
 
-
+| Title                                                        | 标题   | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time      | Star    |
+| ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | --------- | ------- |
+| 9. [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | 回文数 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0009.Palindrome%20Number) | Easy       | O(n)\|O(n)             |      | 2021.8.31 | :heart: |
+|                                                              |        |                                                              |            |                        |      |           |         |
+|                                                              |        |                                                              |            |                        |      |           |         |
 
 
 
