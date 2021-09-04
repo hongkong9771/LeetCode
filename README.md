@@ -191,15 +191,15 @@
 
 ##### 9. 常见笔面试题
 
-| Title                                                        | 标题                               | Solution | Difficulty | Time\|Space Complexity | Tip  | Time | Star |
-| ------------------------------------------------------------ | ---------------------------------- | -------- | ---------- | ---------------------- | ---- | ---- | ---- |
-| [剑指 Offer 62. 圆圈中最后剩下的数字 LCOF](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 剑指Offer 62. 圆圈中最后剩下的数字 | Java     | Easy       | O(n^2)\|O(ns)          |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
-|                                                              |                                    |          |            |                        |      |      |      |
+| Title                                                        | 标题                               | Solution          | Difficulty | Time\|Space Complexity | Tip  | Time     | Star |
+| ------------------------------------------------------------ | ---------------------------------- | ----------------- | ---------- | ---------------------- | ---- | -------- | ---- |
+| [剑指 Offer 62. 圆圈中最后剩下的数字 LCOF](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 剑指Offer 62. 圆圈中最后剩下的数字 | [Java](           | Easy       | O(n^2)\|O(ns)          |      | 2021.9.4 |      |
+| [面试题 16.01. Swap Numbers LCCI](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 面试题 16.01. 交换数字             | [Python \| Java]( | Medium     |                        |      | 2021.9.4 |      |
+|                                                              |                                    |                   |            |                        |      |          |      |
+|                                                              |                                    |                   |            |                        |      |          |      |
+|                                                              |                                    |                   |            |                        |      |          |      |
+|                                                              |                                    |                   |            |                        |      |          |      |
+|                                                              |                                    |                   |            |                        |      |          |      |
 
 
 
