@@ -193,7 +193,7 @@
 
 | Title                                                        | 标题                               | Solution          | Difficulty | Time\|Space Complexity | Tip  | Time     | Star                                |
 | ------------------------------------------------------------ | ---------------------------------- | ----------------- | ---------- | ---------------------- | ---- | -------- | ----------------------------------- |
-| [笔试常见题](./Code/使得两数相等的最小步骤数/使得两数相等的最少步骤数.py) | 使得两个数相等的最少步骤数         | [Python](         |            |                        |      | 2021.9.4 | :heart::heart::heart::heart::heart: |
+| [笔试常见题1](./Code/使得两数相等的最小步骤数/使得两数相等的最少步骤数.py) | 使得两个数相等的最少步骤数         | [Python](         |            |                        |      | 2021.9.4 | :heart::heart::heart::heart::heart: |
 | [剑指 Offer 62. 圆圈中最后剩下的数字 LCOF](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 剑指Offer 62. 圆圈中最后剩下的数字 | [Java](           | Easy       | O(n^2)\|O(n)           |      | 2021.9.4 |                                     |
 | [面试题 16.01. Swap Numbers LCCI](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 面试题 16.01. 交换数字             | [Python \| Java]( | Medium     |                        |      | 2021.9.4 |                                     |
 |                                                              |                                    |                   |            |                        |      |          |                                     |
