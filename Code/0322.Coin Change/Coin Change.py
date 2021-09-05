@@ -5,7 +5,7 @@ class Solution:
         此题也是完全背包
         dp[i]表示凑够总金额为amount的组合中的硬币数量最少的个数
         """
-        # 对于每一个amount，所需的最少硬币个数为amount+1，所以这里取初始值为amoun+1
+        # 对于每一个amount，所需的最多硬币个数为amount+1，所以这里取初始值为amoun+1
         l = len(coins)
         dp = [amount+1] * (amount + 1)
 
