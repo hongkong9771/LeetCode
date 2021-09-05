@@ -191,15 +191,15 @@
 
 ##### 9. 常见笔面试题
 
-| Title                                                        | 标题                               | Solution          | Difficulty | Time\|Space Complexity | Tip  | Time     | Star                                |
-| ------------------------------------------------------------ | ---------------------------------- | ----------------- | ---------- | ---------------------- | ---- | -------- | ----------------------------------- |
-| [bm1](./Code/使得两数相等的最小步骤数/使得两数相等的最少步骤数.py) | 使得两个数相等的最少步骤数         | [Python](         |            |                        |      | 2021.9.4 | :heart::heart::heart::heart::heart: |
-| [剑指 Offer 62. 圆圈中最后剩下的数字 LCOF](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 剑指Offer 62. 圆圈中最后剩下的数字 | [Java](           | Easy       | O(n^2)\|O(n)           |      | 2021.9.4 |                                     |
-| [面试题 16.01. Swap Numbers LCCI](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 面试题 16.01. 交换数字             | [Python \| Java]( | Medium     |                        |      | 2021.9.4 |                                     |
-|                                                              |                                    |                   |            |                        |      |          |                                     |
-|                                                              |                                    |                   |            |                        |      |          |                                     |
-|                                                              |                                    |                   |            |                        |      |          |                                     |
-|                                                              |                                    |                   |            |                        |      |          |                                     |
+| Title                                                        | 标题                               | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time     | Star                                |
+| ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | -------- | ----------------------------------- |
+| [bm1](./Code/bm001.使得两数相等的最小步骤数/使得两数相等的最少步骤数.py) | 使得两个数相等的最少步骤数         | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm001.%E4%BD%BF%E5%BE%97%E4%B8%A4%E6%95%B0%E7%9B%B8%E7%AD%89%E7%9A%84%E6%9C%80%E5%B0%8F%E6%AD%A5%E9%AA%A4%E6%95%B0) |            |                        |      | 2021.9.4 | :heart::heart::heart::heart::heart: |
+| [bm002. 剑指 Offer 62. 圆圈中最后剩下的数字 LCOF](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 剑指Offer 62. 圆圈中最后剩下的数字 | [Java](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm002.%E5%89%91%E6%8C%87%20Offer%2062.%20%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97) | Easy       | O(n^2)\|O(n)           |      | 2021.9.4 |                                     |
+| [bm003. 面试题 16.01. Swap Numbers LCCI](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 面试题 16.01. 交换数字             | [Python \| Java](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm003.%E9%9D%A2%E8%AF%95%E9%A2%98%2016.01.%20%E4%BA%A4%E6%8D%A2%E6%95%B0%E5%AD%97) | Medium     |                        |      | 2021.9.4 |                                     |
+|                                                              |                                    |                                                              |            |                        |      |          |                                     |
+|                                                              |                                    |                                                              |            |                        |      |          |                                     |
+|                                                              |                                    |                                                              |            |                        |      |          |                                     |
+|                                                              |                                    |                                                              |            |                        |      |          |                                     |
 
 
 
