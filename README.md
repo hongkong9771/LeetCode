@@ -221,7 +221,7 @@
 
 | Title                                                        | 标题 | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time      | Star                         |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | --------- | ---------------------------- |
-| 77. [Combinations](https://leetcode-cn.com/problems/combinations/) | 组合 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0077.Combinations) | Medium     |                        |      | 2021.9.15 | :heart::heart::heart::heart: |
+| 77. [Combinations](https://leetcode-cn.com/problems/combinations/) | 组合 | [Python \| Java](https://github.com/hongkong9771/LeetCode/tree/main/Code/0077.Combinations) | Medium     |                        |      | 2021.9.15 | :heart::heart::heart::heart: |
 |                                                              |      |                                                              |            |                        |      |           |                              |
 |                                                              |      |                                                              |            |                        |      |           |                              |
 
