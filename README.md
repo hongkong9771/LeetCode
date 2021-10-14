@@ -224,7 +224,7 @@
 | [bm7. 字符串展开](./Code/bm007.字符串展开)                   | 字符串展开                         | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm007.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B1%95%E5%BC%80) |            |                        | 蔚来笔试题（字符串拆分+回溯）                              | 2021.9.28  | :heart::heart::heart:               |
 | [bm8. 流水潺潺](./Code/bm008.流水潺潺)                       | 流水潺潺                           | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm008.%E6%B5%81%E6%B0%B4%E6%BD%BA%E6%BD%BA) |            |                        | 360笔试                                                    | 2021.9.28  | :heart::heart::heart::heart::heart: |
 | [bm9. LC88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | LC88.合并两个有序数组              | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm009.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84) |            |                        | 百度二面                                                   | 2021.10.12 | :heart::heart:                      |
-|                                                              |                                    | [Python](                                                    |            |                        |                                                            |            |                                     |
+| [bm10. ]                                                     |                                    | [Python](                                                    |            |                        |                                                            |            |                                     |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                            |            |                                     |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                            |            |                                     |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                            |            |                                     |
@@ -270,9 +270,7 @@
 
 
 
-
-
-##### 13. 数据库
+##### 数据库
 
 | Title                                                        | 标题                     | Solution                                                     | Difficulty | Time\|Space Complexity | Tip                        | Time     | Star                         |
 | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ | ---------- | ---------------------- | -------------------------- | -------- | ---------------------------- |
@@ -298,9 +296,7 @@
 
 
 
-##### 14. shell
-
-
+##### shell
 
 | Title                                                        | 标题     | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time     | star                         |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | -------- | ---------------------------- |
