@@ -263,24 +263,6 @@
 
 
 
-##### **10. LC面试题**
-
-| Title                                                        | 标题       | Solution  | Difficulty | Time\|Space Complexity | Tip  | Time      | Star           |
-| ------------------------------------------------------------ | ---------- | --------- | ---------- | ---------------------- | ---- | --------- | -------------- |
-| [面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | 字符串压缩 | [Python]( | Easy       | O(n)                   |      | 2021.11.2 | :heart::heart: |
-|                                                              |            | [Python]( |            |                        |      |           |                |
-|                                                              |            | [Python]( |            |                        |      |           |                |
-|                                                              |            | [Python]( |            |                        |      |           |                |
-|                                                              |            | [Python]( |            |                        |      |           |                |
-|                                                              |            | [Python]( |            |                        |      |           |                |
-|                                                              |            |           |            |                        |      |           |                |
-|                                                              |            |           |            |                        |      |           |                |
-|                                                              |            |           |            |                        |      |           |                |
-
-
-
-
-
 ##### 11. 回溯算法
 
 | Title                                                        | 标题         | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time      | Star                         |
