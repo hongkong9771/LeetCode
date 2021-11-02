@@ -248,7 +248,11 @@
 | [bm10. 面试题 17.14. Smallest K LCCI](https://leetcode-cn.com/problems/smallest-k-lcci/) | 面试题 17.14. 最小K个数            | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm010.%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0) | Medium     |                        | 芯动科技笔试                                                 | 2021.10.17 | :heart::heart:                      |
 | [bm11. LC74.搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | LC74. 搜索二维矩阵                 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0074.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5) | Medium     |                        | 知乎一面                                                     | 2021.10.23 | :heart::heart:                      |
 | [bm12. LC240.搜索二维矩阵Ⅱ]()                                | LC240. 搜索二维矩阵Ⅱ               | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5%E2%85%A1) | Medium     | O(n)\|O(1)             | 知乎一面                                                     | 2021.10.23 | :heart::heart:                      |
-| [bm13. LC69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | LC69.Sqrt(x)                       | [Python](                                                    | Easy       | O(lgn)\|O(1)           | 芯动科技笔试                                                 | 2021.11.2  | :heart::heart:                      |
+| [bm13. LC69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | LC69.Sqrt(x)                       | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/0069.Sqrt(x)) | Easy       | O(lgn)\|O(1)           | 芯动科技笔试                                                 | 2021.11.2  | :heart::heart:                      |
+| [bm14. 面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | 面试题01.06.字符串压缩             | [Python](                                                    | Easy       | O(n)                   |                                                              | 2021.11.2  | :heart::heart:                      |
+|                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                     |
+|                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                     |
+|                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                     |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                     |
 |                                                              |                                    |                                                              |            |                        |                                                              |            |                                     |
 |                                                              |                                    |                                                              |            |                        |                                                              |            |                                     |
@@ -259,7 +263,25 @@
 
 
 
-##### 10. 回溯算法
+##### **10. LC面试题**
+
+| Title                                                        | 标题       | Solution  | Difficulty | Time\|Space Complexity | Tip  | Time      | Star           |
+| ------------------------------------------------------------ | ---------- | --------- | ---------- | ---------------------- | ---- | --------- | -------------- |
+| [面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | 字符串压缩 | [Python]( | Easy       | O(n)                   |      | 2021.11.2 | :heart::heart: |
+|                                                              |            | [Python]( |            |                        |      |           |                |
+|                                                              |            | [Python]( |            |                        |      |           |                |
+|                                                              |            | [Python]( |            |                        |      |           |                |
+|                                                              |            | [Python]( |            |                        |      |           |                |
+|                                                              |            | [Python]( |            |                        |      |           |                |
+|                                                              |            |           |            |                        |      |           |                |
+|                                                              |            |           |            |                        |      |           |                |
+|                                                              |            |           |            |                        |      |           |                |
+
+
+
+
+
+##### 11. 回溯算法
 
 | Title                                                        | 标题         | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time      | Star                         |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | --------- | ---------------------------- |
@@ -272,7 +294,7 @@
 
 
 
-##### 11. 贪心算法
+##### 12. 贪心算法
 
 | Title                                                        | 标题     | Solution                                                     | Difficulty | Time\|Space Complexity                       | Tip  | Time      | Star           |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- | -------------------------------------------- | ---- | --------- | -------------- |
@@ -285,7 +307,7 @@
 
 
 
-##### 12. 回文专题
+##### 13. 回文专题
 
 | Title                                                        | 标题   | Solution                                                     | Difficulty | Time\|Space Complexity | Tip  | Time      | Star    |
 | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ---------- | ---------------------- | ---- | --------- | ------- |
