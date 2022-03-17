@@ -137,6 +137,9 @@
 | 946. [Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | 验证栈序列                   | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm021.LC946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97) | Medium     | O(n)\|O(n)             | 双指针               | 2022.3.17            | :heart::heart::heart::heart: |
 |                                                              |                              |                                                              |            |                        |                      |                      |                              |
 |                                                              |                              |                                                              |            |                        |                      |                      |                              |
+|                                                              |                              |                                                              |            |                        |                      |                      |                              |
+|                                                              |                              |                                                              |            |                        |                      |                      |                              |
+|                                                              |                              |                                                              |            |                        |                      |                      |                              |
 
 
 
