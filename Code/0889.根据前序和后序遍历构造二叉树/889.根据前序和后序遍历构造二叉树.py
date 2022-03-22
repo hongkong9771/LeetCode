@@ -12,7 +12,7 @@ class Solution:
         如果知道根节点的左子树有多少个节点，就可以对这些数组进行分组，并用递归生成树的每个分支
         假设左子树有L个节点，我们知道左子树的根节点为preorder[1]，并且其也在后序遍历中左子树的最后，即左子树包含的节点为[4, 5, 2], 
         所以左子树的长度为: L = postorder.index(preorder[1]) + 1
-        接下来就可以将根节点的左右子树的前序遍历以及后遍历分别输入到原函数中进行递归调用
+        接下来就可以将根节点的左右子树的前序遍历以及后序遍历分别输入到原函数中进行递归调用
         """
         if not preorder:
             return None
@@ -23,5 +23,5 @@ class Solution:
         # 确定左子树的长度
         L = postorder.index(preorder[1]) + 1
         root.left = self.constructFromPrePost(preorder[1:L+1], postorder[0:L])
-        root.right = self.constructFromPrePost(preorder[L+1:], postorder[L:])
+        root.right = self.constructFromPrePost(preorder[L+1:], postorder[L:-1])
         return root
