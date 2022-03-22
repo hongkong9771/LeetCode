@@ -168,14 +168,18 @@
 | 404. [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | 左叶子之和           | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0404.%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C) | Easy       |                        | <font color=red>递归</font>/队列迭代    | 2021.5.8  | :heart::heart: |
 | 513. [Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | 找树左下角的值       | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC) | Medium     |                        | 迭代                                    | 2021.6.22 | :heart:        |
 | 103. [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 二叉树的锯齿形层序遍历 | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0103.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86) | Medium |                        | 神策数据面试（同二叉树的层序遍历） | 2021.10.18 | :heart::heart::heart: |
+| 889. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | 根据前序和后序遍历构造二叉树 | [LeetCode   Python3](                                        | Medium | O($n^2$)\|O(n) | 递归 | 2022.3.22 | :heart::heart::heart::heart: |
 |                                                              |                      | [LeetCode   Python3](                                        |            |                        |                                         |           |                |
 |                                                              |                      | [LeetCode   Python3](                                        |            |                        |                                         |           |                |
-|                                                              |                      | [LeetCode   Python3](                                        |            |                        |                                         |           |                |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
+| | | [LeetCode   Python3]( | | | | | |
 | | |  | | | | | |
-| | |  | | | | | |
-| | |  | | | | | |
-| | |  | | | | | |
-| | |  | | | | | |
+| | | | | | | | |
 |                                                              |                      |                                                              |            |                        |                                         |           |                |
 
 
@@ -267,7 +271,7 @@
 | [bm21.LC946.Validate Stack Sequences](https://leetcode-cn.com/problems/validate-stack-sequences/) | 验证栈序列                         | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm021.LC946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97) | Medium     | O(n)\|O(n)             | 双指针                                                       | 2022.3.17  | :heart::heart::heart::heart:               |
 | [bm22.利用分治法求指数取余运算](./Code/bm022.利用分治法求指数取余运算) | 利用分治法求指数取余运算           | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm022.%E5%88%A9%E7%94%A8%E5%88%86%E6%B2%BB%E6%B3%95%E6%B1%82%E6%8C%87%E6%95%B0%E5%8F%96%E4%BD%99%E8%BF%90%E7%AE%97) |            | O(n)\|O(n)             | 分治法 递归                                                  | 2022.3.19  | :heart::heart::heart::heart:               |
 | [bm23.正整数表达](./Code/bm023.正整数表达)                   | 正整数表达                         | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm023.%E6%AD%A3%E6%95%B4%E6%95%B0%E8%A1%A8%E8%BE%BE) |            |                        |                                                              | 2022.3.19  | :heart:                                    |
-| [bm24.LC912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 912. 排序数组                      | [Python](                                                    | Medium     |                        | 冒泡、选择、插入、希尔、快速、堆                             | 2022.3.22  | :heart::heart::heart::heart::heart::heart: |
+| [bm24.LC912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 912. 排序数组                      | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm024.LC912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84) | Medium     |                        | 冒泡、选择、插入、希尔、快速、堆                             | 2022.3.22  | :heart::heart::heart::heart::heart::heart: |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                            |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                            |
 |                                                              |                                    | [Python](                                                    |            |                        |                                                              |            |                                            |
