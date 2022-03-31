@@ -9,8 +9,9 @@ class Solution:
             for j in range(i+1, n):
                 # 顺时针旋转的情况
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-                # 逆时针旋转的情况
-                # matrix[i][j], matrix[n-1-j][n-1-i] = matrix[n-1-j][n-1-i], matrix[i][j]
+            # 逆时针旋转的情况
+            # for j in range(0, n-1-i):
+            #     matrix[i][j], matrix[n-1-j][n-1-i] = matrix[n-1-j][n-1-i], matrix[i][j]
             
             for j in range(n//2):
                 matrix[i][j], matrix[i][n-1-j] = matrix[i][n-1-j], matrix[i][j]
