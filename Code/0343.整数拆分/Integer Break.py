@@ -1,13 +1,11 @@
 class Solution:
     def integerBreak(self, n: int) -> int:
-        dp = [0] * (n+1)
-        for i in range(2, n+1):
+        dp = [0] * ( n + 1)
+        dp[2] = 1
+        for i in range(3, n+1):
             for j in range(1, i):
-                '''
-                j*(i-j)表示将i拆分成正整数j和i-j，并且不再拆分，此时的乘积为j*(i-j)
-                j*dp[i-j]表示将i拆分成两个正整数j和i-j，并继续拆分i-j，此时的乘积为j*dp[i-j]
-                其中i需要从2遍历至n，以统计每个正整数的整数拆分乘积最大值
-                j需要从1遍历至i-1，以找到i的整数拆分乘积最大值，并每次更新最大值dp[i]
-                '''
-                dp[i] = max(dp[i], j*(i-j), j*dp[i-j])    
-        return dp[n]
+                # 假设对正整数 i 拆分出的第一个正整数是 j（1 <= j < i），则有以下两种方案：
+                # 1) 将 i 拆分成 j 和 i−j 的和，且 i−j 不再拆分成多个正整数，此时的乘积是 j * (i-j)
+                # 2) 将 i 拆分成 j 和 i−j 的和，且 i−j 继续拆分成多个正整数，此时的乘积是 j * dp[i-j]
+                dp[i] = max(dp[i], max(j*(i-j), j * dp[i-j]))
+        return dp[-1]
