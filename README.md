@@ -314,7 +314,12 @@
 | 55. [Jump Game](https://leetcode-cn.com/problems/jump-game/) | 跳跃游戏    | [LeetCode   Python3](https://github.com/hongkong9771/LeetCode/tree/main/Code/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F) | Medium     | O(n)\|O(1)                                   |      | 2022.4.2  | :heart:        |
 | 45. [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | 跳跃游戏 II | [LeetCode Python](                                           | Medium     | O(n)\|O(1)                                   |      | 2022.4.6  | :heart::heart: |
 |                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
-|                                                              |             |                                                              |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
+|                                                              |             | [LeetCode Python](                                           |            |                                              |      |           |                |
 |                                                              |             |                                                              |            |                                              |      |           |                |
 
 
