@@ -302,7 +302,7 @@
 | [bm38.LC845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 845. 数组中的最长山脉 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm038.LC845.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E5%B1%B1%E8%84%89) | Medium |                        | 字节跳动笔试改为"V"型数组 | 2022.4.18 | :heart::heart::heart::heart: |
 | [bm39.LC974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | 974. 和可被 K 整除的子数组 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm039.LC974.%E5%92%8C%E5%8F%AF%E8%A2%AB%20K%20%E6%95%B4%E9%99%A4%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84) | Medium | O(N)\|O(k) | 字节跳动笔试 | 2022.4.18 | :heart::heart::heart::heart::heart::heart: |
 | [bm40.LC560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 560. 和为 K 的子数组 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm040.LC560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84) | Medium | O(N)\|O(N) | 与bm39.LC974类似 | 2022.4.18 | :heart::heart::heart::heart: |
-| [bm041.整数n的二进制中包含1的个数](.\Code\bm041.整数n的二进制中包含1的个数) | 整数n的二进制中包含1的个数 | [Python]( | | O(1)\|O(1) | 字节跳动面试 | 2022.4.18 | :heart::heart::heart::heart: |
+| [bm41.整数n的二进制中包含1的个数](.\Code\bm041.整数n的二进制中包含1的个数) | 整数n的二进制中包含1的个数 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm041.%E6%95%B4%E6%95%B0n%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD%E5%8C%85%E5%90%AB1%E7%9A%84%E4%B8%AA%E6%95%B0) | | O(1)\|O(1) | 字节跳动面试 | 2022.4.18 | :heart::heart::heart::heart: |
 | | | [Python]( | | | | | |
 | | | [Python]( | | | | | |
 | | | [Python]( | | | | | |
