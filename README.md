@@ -301,7 +301,7 @@
 | [bm37.LC260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | 260. 只出现一次的数字 III | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm037.LC260.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20III) | Medium |                        | 位运算 | 2022.4.18 | :heart::heart::heart::heart::heart::heart: |
 | [bm38.LC845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 845. 数组中的最长山脉 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm038.LC845.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E5%B1%B1%E8%84%89) | Medium |                        | 字节跳动笔试改为"V"型数组 | 2022.4.18 | :heart::heart::heart::heart: |
 | [bm39.LC974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | 974. 和可被 K 整除的子数组 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm039.LC974.%E5%92%8C%E5%8F%AF%E8%A2%AB%20K%20%E6%95%B4%E9%99%A4%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84) | Medium | O(N)\|O(k) | 字节跳动笔试 | 2022.4.18 | :heart::heart::heart::heart::heart::heart: |
-| [bm40.LC560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 560. 和为 K 的子数组 | [Python](                                           | Medium | O(N)\|O(N) | 与bm39.LC974类似 | 2022.4.18 | :heart::heart::heart::heart: |
+| [bm40.LC560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 560. 和为 K 的子数组 | [Python](https://github.com/hongkong9771/LeetCode/tree/main/Code/bm040.LC560.%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84) | Medium | O(N)\|O(N) | 与bm39.LC974类似 | 2022.4.18 | :heart::heart::heart::heart: |
 | | | [Python]( | | | | | |
 | | | [Python]( | | | | | |
 | | | [Python]( | | | | | |
